@@ -27,4 +27,8 @@ body{
 .conteudo-principal{
     display: flex;
     justify-content: center;
+    width: 20px;
+    align-items: center;
+    margin: 0 auto;
+    
 }
