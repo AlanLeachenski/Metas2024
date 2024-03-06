@@ -16,10 +16,10 @@ body{
     text-align: center;
 }
 .botão{
-    background-color: rgb(49, 65, 183);
+    background-color: rgb(24, 163, 168);
     font-size: 40px;
     border-radius: 10px;
-    color: black;
+    color: rgb(198, 240, 10);
     margin: 20px;
     padding: 20px;
 }
@@ -30,5 +30,4 @@ body{
     width: 20px;
     align-items: center;
     margin: 0 auto;
-    
 }
