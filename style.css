@@ -9,14 +9,14 @@
 
 
 body{
-    background-color: rgb(30, 48, 24);
-    color: rgb(109, 241, 9);
+    background-color: rgb(15, 31, 173);
+    color: rgb(185, 11, 23);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 60px;
     text-align: center;
 }
 .botão{
-    background-color: rgb(24, 163, 168);
+    background-color: rgb(1, 5, 6);
     font-size: 40px;
     border-radius: 10px;
     color: rgb(198, 240, 10);
@@ -30,4 +30,11 @@ body{
     width: 20px;
     align-items: center;
     margin: 0 auto;
+}
+.imagem1{
+    width: 15%;
+    height: 15%;
+}
+.meta{
+  display: flex;
 }
